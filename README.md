@@ -1,4 +1,8 @@
 steam-drm-alert
 ===============
 
-Fork of two user scripts ("Steam DRM Alert" and "Steam Store highlight DRM words") to highlight and alert the user about DRM and 3rd party services on the Steam store
+Highlights and warns the user about DRM and 3rd party services on the Steam store.
+
+Fork and merge of two out-of-date user scripts
+* Steam DRM Alert: http://userscripts.org/scripts/show/123500
+* Steam Store highlight DRM words: http://userscripts.org/scripts/show/74040
