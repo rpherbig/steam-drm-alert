@@ -24,6 +24,7 @@ var drmWords = [
 		,/((permanent |persistent )(high speed )?Internet( connection| access)?)/gi
 		,/(CREATION OF( A| AN)? UBISOFT ACCOUNT)/gi
 		,/(([0-9]+ |unlimited )?(per (week|month|year) |total )?(machines? )?activations?( limit)?)/gi
+        ,/(UPlay)/gi
     ];
 var drmFound = [];
 function check(el, regex) 
