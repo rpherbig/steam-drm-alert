@@ -16,6 +16,8 @@ var drmWords = [
         ,/(FrontLine ProActive)/gi
         ,/(Games For Windows LIVE)/gi
         ,/(Games For Windows – Live)/gi
+        ,/(Games For Windows - Live)/gi
+    	,/(Online play requires log-in)/gi
         ,/(www\.gamesforwindows\.com)/gi
         ,/(activate\.ea\.com(\/deauthorize)?)/gi
         ,/(EA Access)/gi
