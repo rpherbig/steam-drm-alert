@@ -4,6 +4,7 @@
 // @description   Highlights and warns the user about DRM and 3rd party services on the Steam store
 // @include       http://store.steampowered.com/*
 // @include       https://store.steampowered.com/*
+// @version       1.1
 // ==/UserScript==
 var drmWords = [
 // Each entry must be surrounded by parens so that the back-reference (e.g. $1) replacement will work below
